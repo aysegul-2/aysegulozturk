@@ -8,14 +8,14 @@
 
 
 ## Yeteneklerim
-- **Pyhton ile makine öğrenmesi modellerini uygulama 
-- **SQL ile veri analizi ve işleme
+- Pyhton ile makine öğrenmesi modellerini uygulama 
+- SQL ile veri analizi ve işleme
 
 
 ## Hedefler:
-- **Makine öğrenmesi alanındaki bilgilerimi daha da geliştirmek
-- **Karmaşık veri setlerini analiz ederek anlamlı sonuçlar elde etmek
-- **Makine öğrenmesi modellerini gerçek dünya problemlerine uygulamak
+- Makine öğrenmesi alanındaki bilgilerimi daha da geliştirmek
+- Karmaşık veri setlerini analiz ederek anlamlı sonuçlar elde etmek
+- Makine öğrenmesi modellerini gerçek dünya problemlerine uygulamak
 
 
 
